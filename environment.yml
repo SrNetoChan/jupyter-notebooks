@@ -1,0 +1,6 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - qgis=3.16.14
+  - geopandas

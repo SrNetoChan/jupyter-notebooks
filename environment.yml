@@ -4,3 +4,5 @@ channels:
 dependencies:
   - qgis=3.16.14
   - geopandas
+  - libgl1-mesa-glx
+  - pandas

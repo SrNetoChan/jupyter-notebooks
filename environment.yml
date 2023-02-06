@@ -2,11 +2,4 @@ name: jupyternotebooks
 channels:
   - conda-forge
 dependencies:
-  - python
-  - jupyter
-  - notebook
-  - ipykernel
-  - pip
-  - pip:
-    - md-mermaid
-
+  - qgis
